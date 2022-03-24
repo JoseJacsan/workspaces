@@ -1,0 +1,25 @@
+/*
+Adicione o valor correto à propriedade, para que os elementos "a" fiquem alinhados 1 em cima do outro, ocupando todo o espaço disponível. Essas são algumas as opções disponíveis:
+
+inline
+
+inline-block
+
+block
+
+flex
+*/
+
+nav{
+  width: 710px;
+}
+
+a{
+  text-decoration: none;
+  color: #308ebd;
+  border-bottom: 2px solid #308ebd;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+  display: block;
+}
